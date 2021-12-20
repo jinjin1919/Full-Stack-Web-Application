@@ -1,0 +1,10 @@
+{
+    "rds_host": "database-1.cqnl4wk47rmr.us-east-2.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "admin0505",
+    "rds_password" : "xu459068191",
+    "rds_db": "FIFA",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+
+}
